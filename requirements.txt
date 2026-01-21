@@ -1,0 +1,15 @@
+# Editable install with no version control (clij==0.1.0)
+-e .
+markdown-it-py==4.0.0
+mdurl==0.1.2
+numpy==2.4.1
+pandas==2.3.3
+Pygments==2.19.2
+python-dateutil==2.9.0.post0
+pytz==2025.2
+rich==14.2.0
+shellingham==1.5.4
+six==1.17.0
+typer==0.21.1
+typing_extensions==4.15.0
+tzdata==2025.3

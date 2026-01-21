@@ -1,0 +1,266 @@
+{
+  "contestants": {
+    "july": {
+      "enabled": true,
+      "submissions": {
+        "CAU3": "./contest/contestants/july/cau3.cpp"
+      }
+    }
+  },
+  "testdata": {
+    "CAU3": {
+      "enabled": true,
+      "point": 10,
+      "equal_point": true,
+      "testcase": [
+        {
+          "name": "Test001",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test001/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test001/CAU3.out"
+        },
+        {
+          "name": "Test002",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test002/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test002/CAU3.out"
+        },
+        {
+          "name": "Test003",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test003/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test003/CAU3.out"
+        },
+        {
+          "name": "Test004",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test004/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test004/CAU3.out"
+        },
+        {
+          "name": "Test005",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test005/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test005/CAU3.out"
+        },
+        {
+          "name": "Test006",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test006/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test006/CAU3.out"
+        },
+        {
+          "name": "Test007",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test007/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test007/CAU3.out"
+        },
+        {
+          "name": "Test008",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test008/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test008/CAU3.out"
+        },
+        {
+          "name": "Test009",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test009/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test009/CAU3.out"
+        },
+        {
+          "name": "Test010",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test010/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test010/CAU3.out"
+        },
+        {
+          "name": "Test011",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test011/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test011/CAU3.out"
+        },
+        {
+          "name": "Test012",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test012/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test012/CAU3.out"
+        },
+        {
+          "name": "Test013",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test013/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test013/CAU3.out"
+        },
+        {
+          "name": "Test014",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test014/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test014/CAU3.out"
+        },
+        {
+          "name": "Test015",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test015/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test015/CAU3.out"
+        },
+        {
+          "name": "Test016",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test016/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test016/CAU3.out"
+        },
+        {
+          "name": "Test017",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test017/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test017/CAU3.out"
+        },
+        {
+          "name": "Test018",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test018/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test018/CAU3.out"
+        },
+        {
+          "name": "Test019",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test019/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test019/CAU3.out"
+        },
+        {
+          "name": "Test020",
+          "point": 1,
+          "input": "./contest/testcases/CAU3/Test020/CAU3.inp",
+          "output": "./contest/testcases/CAU3/Test020/CAU3.out"
+        }
+      ]
+    },
+    "CAU4": {
+      "enabled": true,
+      "point": 10,
+      "equal_point": true,
+      "testcase": [
+        {
+          "name": "Test001",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test001/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test001/CAU4.out"
+        },
+        {
+          "name": "Test002",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test002/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test002/CAU4.out"
+        },
+        {
+          "name": "Test003",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test003/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test003/CAU4.out"
+        },
+        {
+          "name": "Test004",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test004/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test004/CAU4.out"
+        },
+        {
+          "name": "Test005",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test005/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test005/CAU4.out"
+        },
+        {
+          "name": "Test006",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test006/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test006/CAU4.out"
+        },
+        {
+          "name": "Test007",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test007/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test007/CAU4.out"
+        },
+        {
+          "name": "Test008",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test008/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test008/CAU4.out"
+        },
+        {
+          "name": "Test009",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test009/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test009/CAU4.out"
+        },
+        {
+          "name": "Test010",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test010/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test010/CAU4.out"
+        },
+        {
+          "name": "Test011",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test011/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test011/CAU4.out"
+        },
+        {
+          "name": "Test012",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test012/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test012/CAU4.out"
+        },
+        {
+          "name": "Test013",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test013/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test013/CAU4.out"
+        },
+        {
+          "name": "Test014",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test014/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test014/CAU4.out"
+        },
+        {
+          "name": "Test015",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test015/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test015/CAU4.out"
+        },
+        {
+          "name": "Test016",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test016/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test016/CAU4.out"
+        },
+        {
+          "name": "Test017",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test017/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test017/CAU4.out"
+        },
+        {
+          "name": "Test018",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test018/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test018/CAU4.out"
+        },
+        {
+          "name": "Test019",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test019/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test019/CAU4.out"
+        },
+        {
+          "name": "Test020",
+          "point": 1,
+          "input": "./contest/testcases/CAU4/Test020/CAU4.inp",
+          "output": "./contest/testcases/CAU4/Test020/CAU4.out"
+        }
+      ]
+    }
+  }
+}

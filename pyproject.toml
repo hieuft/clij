@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clij"
+version = "0.1.0"
+dependencies = [
+    "typer"
+]
+
+[project.scripts]
+# Change 1: Update the import path to match the new folder structure
+clij = "clij.main:app" 
+
+# Change 2: Explicitly tell setuptools where to find the code
+[tool.setuptools.packages.find]
+where = ["src"]
